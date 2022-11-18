@@ -9,7 +9,7 @@ class Header extends Component {
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Soluta voluptas, animi qui esse necessitatibus suscipit
                     libero minima sapiente magni totam, placeat ea sint, eos
-                    eius quo eaque numquam. Ea, corporis?
+                    eius quo eaque numquam. Ea, corporis?ee
                 </p>
             </div>
         );
