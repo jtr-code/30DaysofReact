@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Event from "./components/Event";
 import Forms from "./components/Forms";
+import Lists from "./components/List";
 
 class App extends Component {
     state = {
@@ -19,6 +20,7 @@ class App extends Component {
                 <Header />
                 <Event />
                 <Forms/>
+                <Lists/>
                 <Footer />
             </div>
         );
